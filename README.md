@@ -1,7 +1,8 @@
-# Пулков Максим
+# Maksim Pulkov
 
-Data Analyst (Python) · 19 лет · Москва, Россия
+Data Analyst (Python) · 19 years old · Moscow, Russia
 
+BSc student at **RTU MIREA**, **Artificial Intelligence & Machine Learning**, class of 2028.
 Бакалавр РТУ МИРЭА, Искусственный интеллект и машинное обучение, 2024–2028.
 
 Разбираю данные: чищу датасеты, проверяю гипотезы и довожу разбор до вывода, который можно показать заказчику. Внимателен к пропускам, дисбалансу классов и тому, где модель ошибается.
