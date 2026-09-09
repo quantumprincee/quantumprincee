@@ -6,12 +6,13 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 
 ## Stack
 
-| | |
+| Category | Tools |
 |---|---|
 | **Core** | Python · Pandas · NumPy · Jupyter Notebook |
 | **Visualization** | Matplotlib · Seaborn · Plotly |
-| **Data** | SQL · MySQL · PostgreSQL · Excel |
-| **Infrastructure** | Docker · Git · Bash/Linux |
+| **ML** | scikit-learn · LogisticRegression · DecisionTree |
+| **Data** | SQL · MySQL · PostgreSQL |
+| **Infrastructure** | Docker · Git · Bash/Linux · Excel |
 
 ## Education
 
