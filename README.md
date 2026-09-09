@@ -9,7 +9,6 @@ Data Analyst (Python) · 19 лет · Москва, Россия
 ## Stack
 
 | | |
-|---|---|
 | **Core** | Python · Pandas · NumPy · Jupyter Notebook |
 | **Visualization** | Matplotlib · Seaborn · Plotly |
 | **ML** | scikit-learn · LogisticRegression · DecisionTree |
