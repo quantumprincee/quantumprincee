@@ -16,14 +16,14 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 
 ## Education
 
-**RTU MIREA** — BSc, **Artificial Intelligence & Machine Learning**, 2024–2028
+- **RTU MIREA** — BSc, **Artificial Intelligence & Machine Learning**, 2024–2028
 
 ## Achievements
 
 - Hackathon participant **Changellenge >> Cup IT 2026**, case: Data Analysis
 
 ## Languages
-Russian (Native) · English(B1, Intermediate)
+- Russian (Native) · English(B1, Intermediate)
 
 ## Contacts
 
