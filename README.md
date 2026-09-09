@@ -11,6 +11,7 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 | **Core** | Python · Pandas · NumPy · Jupyter Notebook |
 | **Visualization** | Matplotlib · Seaborn · Plotly |
 | **Data** | SQL · MySQL · PostgreSQL |
+| **Analytics** | Statistics · Hypothesis Testing · A/B Testing · EDA |
 | **ML** | Classic ML · Scikit-learn |
 | **Infrastructure** | Docker · Git · Bash/Linux · Excel |
 
