@@ -3,7 +3,6 @@
 Data Analyst (Python) · 19 years old · Moscow, Russia
 
 BSc student at **RTU MIREA**, **Artificial Intelligence & Machine Learning**, class of 2028.
-Бакалавр РТУ МИРЭА, Искусственный интеллект и машинное обучение, 2024–2028.
 
 Разбираю данные: чищу датасеты, проверяю гипотезы и довожу разбор до вывода, который можно показать заказчику. Внимателен к пропускам, дисбалансу классов и тому, где модель ошибается.
 
@@ -18,11 +17,11 @@ BSc student at **RTU MIREA**, **Artificial Intelligence & Machine Learning**, cl
 
 ## Education
 
-**РТУ МИРЭА** — Бакалавриат, Искусственный интеллект и машинное обучение, 2024–2028
+**RTU MIREA** — BSc, **Artificial Intelligence & Machine Learning**, 2024–2028
 
 ## Achievements
 
-- Участник хакатона **Changellenge >> Cup IT 2026**, кейс: Аналитика данных
+- Hackathon participant **Changellenge >> Cup IT 2026**, case: Data Analysis
 
 ## Contacts
 
