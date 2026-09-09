@@ -11,7 +11,7 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 | **Core** | Python · Pandas · NumPy · Jupyter Notebook |
 | **Visualization** | Matplotlib · Seaborn · Plotly |
 | **Data** | SQL · MySQL · PostgreSQL |
-| **ML** | scikit-learn · LogisticRegression · DecisionTree |
+| **ML** | scikit-learn · Classic ML · DecisionTree |
 | **Infrastructure** | Docker · Git · Bash/Linux · Excel |
 
 ## Education
@@ -21,6 +21,9 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 ## Achievements
 
 - Hackathon participant **Changellenge >> Cup IT 2026**, case: Data Analysis
+
+## Languages
+Russian (Native) · English(B1, Intermediate)
 
 ## Contacts
 
