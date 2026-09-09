@@ -2,9 +2,7 @@
 
 Data Analyst (Python) · 19 years old · Moscow, Russia
 
-BSc student at **RTU MIREA**, **Artificial Intelligence & Machine Learning**, class of 2028.
-
-Разбираю данные: чищу датасеты, проверяю гипотезы и довожу разбор до вывода, который можно показать заказчику. Внимателен к пропускам, дисбалансу классов и тому, где модель ошибается.
+Currently working with real-world data end-to-end: building ETL pipelines, cleaning messy datasets, running EDA and hypothesis testing — turning raw numbers into conclusions that actually mean something.
 
 ## Stack
 
@@ -25,4 +23,4 @@ BSc student at **RTU MIREA**, **Artificial Intelligence & Machine Learning**, cl
 
 ## Contacts
 
-[Telegram](https://t.me/quantumprince) · [GitHub](https://github.com/quantumprincee) · pulkovm06@mail.ru
+[Telegram](https://t.me/quantumprince) · pulkovm06@mail.ru
