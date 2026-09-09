@@ -7,7 +7,7 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 ## Stack
 
 | | |
-|---|---|
+|||
 | **Core** | Python · Pandas · NumPy · Jupyter Notebook |
 | **Visualization** | Matplotlib · Seaborn · Plotly |
 | **Data** | SQL · MySQL · PostgreSQL · Excel |
