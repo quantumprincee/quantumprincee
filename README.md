@@ -28,4 +28,4 @@ Currently working with real-world data end-to-end: building ETL pipelines, clean
 
 ## Contacts
 
-- [Telegram](https://t.me/quantumprince) · pulkovm06@mail.ru
+- [Telegram](https://t.me/quantumprince) · [Mail](pulkovm06@mail.ru)
